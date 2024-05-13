@@ -1,3 +1,14 @@
+@media only screen and (max-width: 768px) {
+  p {
+    font-size: 17px!important; /* Adjust the font size to match the input fields */
+    line-height: 1.3!important; /* Add line height for better readability */
+  }
+  label {
+    font-size: 15px!important; /* Adjust the font size to match the input fields */
+  }
+}
+
+
 /* Style the form */
 #form {
     background-color: #ffffff;
